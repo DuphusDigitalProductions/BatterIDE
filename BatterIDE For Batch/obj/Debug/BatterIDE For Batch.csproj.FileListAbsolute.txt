@@ -1,0 +1,10 @@
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\bin\Debug\BatterIDE For Batch.exe.config
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\bin\Debug\BatterIDE For Batch.exe
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\bin\Debug\BatterIDE For Batch.pdb
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\obj\Debug\BatterIDE For Batch.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\obj\Debug\BatterIDE_For_Batch.Form1.resources
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\obj\Debug\BatterIDE_For_Batch.Properties.Resources.resources
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\obj\Debug\BatterIDE For Batch.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\obj\Debug\BatterIDE For Batch.exe
+C:\Users\Jennifer\Documents\Visual Studio 2012\Projects\BatterIDE\BatterIDE For Batch\obj\Debug\BatterIDE For Batch.pdb
